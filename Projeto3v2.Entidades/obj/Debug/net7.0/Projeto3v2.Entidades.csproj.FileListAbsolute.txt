@@ -1,0 +1,11 @@
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\bin\Debug\net7.0\Projeto3v2.Entidades.deps.json
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\bin\Debug\net7.0\Projeto3v2.Entidades.dll
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\bin\Debug\net7.0\Projeto3v2.Entidades.pdb
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\Projeto3v2.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\Projeto3v2.Entidades.AssemblyInfoInputs.cache
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\Projeto3v2.Entidades.AssemblyInfo.cs
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\Projeto3v2.Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\Projeto3v2.Entidades.dll
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\refint\Projeto3v2.Entidades.dll
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\Projeto3v2.Entidades.pdb
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Entidades\obj\Debug\net7.0\ref\Projeto3v2.Entidades.dll

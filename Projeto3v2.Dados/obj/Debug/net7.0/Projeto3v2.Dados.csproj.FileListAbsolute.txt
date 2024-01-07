@@ -1,0 +1,15 @@
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\bin\Debug\net7.0\Projeto3v2.Dados.deps.json
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\bin\Debug\net7.0\Projeto3v2.Dados.dll
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\bin\Debug\net7.0\Projeto3v2.Dados.pdb
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\bin\Debug\net7.0\Projeto3v2.Entidades.dll
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\bin\Debug\net7.0\Projeto3v2.Entidades.pdb
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.csproj.AssemblyReference.cache
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.AssemblyInfoInputs.cache
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.AssemblyInfo.cs
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.csproj.CoreCompileInputs.cache
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.csproj.CopyComplete
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.dll
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\refint\Projeto3v2.Dados.dll
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\Projeto3v2.Dados.pdb
+D:\Documentos\Projetos\.NET\Projeto3v2\Projeto3v2.Dados\obj\Debug\net7.0\ref\Projeto3v2.Dados.dll
